@@ -1,3 +1,3 @@
 # Playful-Tails
-the password fo this shope is:
+the password for this shope is:
 pass
